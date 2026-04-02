@@ -12,4 +12,9 @@ Technologies:
 - json
 - csv
 
+Example use case:
+- Extract SpaceX launch data
+- Parse nested failure details
+- Convert structured data into CSV for analysis
+
 Example output included.
